@@ -4,9 +4,13 @@ const emir = document.querySelector('.emir');
 console.log(btn);
 
 
-btn.addEventListener("click",changeColor);
+// btn.addEventListener("click",changeColor);
 
 function changeColor () {
    console.log("ooo");
    emir.classList.add("red")
 }
+
+addEventListener("click",);
+addEventListener("click",);
+
